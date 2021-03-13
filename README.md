@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on JavaScript Projects
 - 📫 How to reach me:
-- - collin.buchkamer@g-works.eu
+ - collin.buchkamer@g-works.eu
