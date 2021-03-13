@@ -2,5 +2,4 @@
 - 👀 I’m interested in osu!, Coding and Brawlhalla
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on JavaScript Projects
-- 📫 How to reach me:
--- collin.buchkamer@g-works.eu
+- 📫 How to reach me: collin.buchkamer@g-works.eu
