@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hanyaku-Chan)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 👋 Hi, I’m Hanyaku
 - 🖥️ I'm currently working on Rory
 - 👀 I’m interested in osu!, Coding and Brawlhalla
