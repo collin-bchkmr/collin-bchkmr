@@ -9,7 +9,8 @@ My hobbies are:
 - Wrestling
 - Gaming
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/219191061199847424)](https://discord.com/users/219191061199847424)
+[![Discord Presence](https://lanyard.cnrad.dev/api/219191061199847424
+                            )](https://discord.com/users/219191061199847424)
 
 I'm also looking for some collaborations. Feel free to add me on Discord!
 ---
