@@ -1,7 +1,7 @@
 # Hi!
 ---
 # About me
-I'm Collin, 16 years old and from Germany. I'm currently trying to find a project to rewrite in another language to get better at coding.<br />
+Hi! I'm 16 years old and from Germany. I'm currently trying to find a project to rewrite in another language to get better at coding.<br />
 
 My hobbies are:
 - Coding
@@ -23,7 +23,7 @@ I'm also looking for some collaborations. Feel free to add me on Discord!
 I'm also learning c++ at the moment.
 ---
 # Contact
-Discord - Gandalf#1791<br />
+Discord - Кальян#3950<br />
 E-Mail - collinbuchkamer@gmail.com<br />
 My Discord - https://discord.gg/fW4TDqXQ9P
 ---
