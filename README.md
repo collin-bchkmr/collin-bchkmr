@@ -23,7 +23,7 @@ I'm also looking for some collaborations. Feel free to add me on Discord!
 I'm also learning c++ at the moment.
 ---
 # Contact
-Discord - Кальян#3950<br />
+Discord - Hanyaku#3950<br />
 E-Mail - collinbuchkamer@gmail.com<br />
 My Discord - https://discord.gg/fW4TDqXQ9P
 ---
