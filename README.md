@@ -25,7 +25,7 @@ I'm also learning c++ at the moment.
 # Contact
 Discord - Hanyaku#3950<br />
 E-Mail - collinbuchkamer@gmail.com<br />
-My Discord - <Coming soon>
+My Discord - (Coming soon)
 ---
 # My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanyaku-Chan&show_icons=true&theme=tokyonight)
