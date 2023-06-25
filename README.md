@@ -15,17 +15,16 @@ My hobbies are:
 ---
 # My top 5 languages
 1 - JavaScript<br />
-2 - Lua<br />
-3 - Python<br />
-4 - Java<br />
-5 - PHP
+2 - C#<br />
+3 - Lua<br />
+4 - Javabr />
+5 - Python
 
-I'm also learning c++ at the moment.
 ---
 # Contact
-Discord - Hanyaku#3950<br />
+Discord - @y.collin<br />
 E-Mail - collinbuchkamer@gmail.com<br />
-My Discord - (Coming soon)
+LonaDB Discord - [Invite](https://discord.gg/tBWVGQt8sP)
 ---
 # My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanyaku-Chan&show_icons=true&theme=tokyonight)
