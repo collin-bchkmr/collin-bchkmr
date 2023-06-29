@@ -22,7 +22,7 @@ My hobbies are:
 
 ---
 # Contact
-Discord - @y.collin<br />
+Discord - @that.sunshine<br />
 E-Mail - collinbuchkamer@gmail.com<br />
 LonaDB Discord - [Invite](https://discord.gg/tBWVGQt8sP)
 ---
