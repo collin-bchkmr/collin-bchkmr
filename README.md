@@ -2,7 +2,7 @@
 ---
 # About me
 Hi! I'm 17 years old and from Germany. I'm currently trying to find a project to rewrite in another language to get better at coding.<br />
-I will start working as a IT-specialist for application development on the 1st September 2023.<br />
+I work as a IT-specialist for application development.<br />
 I'm also looking for some collaborations. Feel free to add me on Discord!<br />
 
 My hobbies are:
