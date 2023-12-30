@@ -1,7 +1,7 @@
 # Hi!
 ---
 # About me
-Hi! I'm 17 years old and from Germany. I'm currently trying to find a project to rewrite in another language to get better at coding.<br />
+Hi! I'm 18 years old and from Germany. I'm currently trying to find a project to rewrite in another language to get better at coding.<br />
 I work as a IT-specialist for application development.<br />
 I'm also looking for some collaborations. Feel free to add me on Discord!<br />
 
