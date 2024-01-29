@@ -1,16 +1,9 @@
 # Hi!
 ---
 # About me
-Hi! I'm 18 years old and from Germany. I'm currently trying to find a project to rewrite in another language to get better at coding.<br />
+Hi! I'm 18 years old and from Germany. My current project is [LonaDB](https://lona-development.org).<br />
 I work as a IT-specialist for application development.<br />
 I'm also looking for some collaborations. Feel free to add me on Discord!<br />
-
-My hobbies are:
-- Wrestling
-- Gaming
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/219191061199847424
-                            )](https://discord.com/users/219191061199847424)
 
 ---
 # My top 5 languages
@@ -18,12 +11,12 @@ My hobbies are:
 2 - C#<br />
 3 - Lua<br />
 4 - Java<br />
-5 - Python
+5 - PHP
 
 ---
 # Contact
-Discord - @that.sunshine<br />
-E-Mail - collinbuchkamer@gmail.com<br />
+Discord - @kys.please.man<br />
+E-Mail - collin@lona-development.org<br />
 LonaDB Discord - [Invite](https://discord.gg/tBWVGQt8sP)
 ---
 # My Stats
