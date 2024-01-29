@@ -20,4 +20,4 @@ E-Mail - collin@lona-development.org<br />
 LonaDB Discord - [Invite](https://discord.gg/tBWVGQt8sP)
 ---
 # My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanyaku-Chan&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=collin-bchkmr&show_icons=true&theme=tokyonight)
