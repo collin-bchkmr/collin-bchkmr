@@ -7,17 +7,14 @@ I'm also looking for some collaborations. Feel free to add me on Discord!<br />
 
 ---
 # My top 5 languages
-1 - JavaScript<br />
+1 - PHP<br />
 2 - C#<br />
-3 - Lua<br />
+3 - JavaScript<br />
 4 - Java<br />
-5 - PHP
+5 - Lua
 
 ---
 # Contact
-Discord - @kys.please.man<br />
+Discord - @that.sunshine<br />
 E-Mail - collin@lona-development.org<br />
 LonaDB Discord - [Invite](https://discord.gg/tBWVGQt8sP)
----
-# My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=collin-bchkmr&show_icons=true&theme=tokyonight)
