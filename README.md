@@ -15,6 +15,6 @@ I'm also looking for some collaborations. Feel free to add me on Discord!<br />
 
 ---
 # Contact
-Discord - @that.sunshine<br />
+Discord - @hymmel_wr<br />
 E-Mail - collin@lona-development.org<br />
 LonaDB Discord - [Invite](https://discord.gg/tBWVGQt8sP)
