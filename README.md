@@ -1,7 +1,7 @@
 # Hi!
 ---
 # About me
-Hi! I'm 18 years old and from Germany. My current project is [LonaDB](https://lona-development.org).<br />
+Hi! I'm 19 years old and from Germany. My current project is [LonaDB](https://lona-development.org).<br />
 I work as a IT-specialist for application development.<br />
 I'm also looking for some collaborations. Feel free to add me on Discord!<br />
 
